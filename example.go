@@ -4,5 +4,5 @@
 package example
 
 const (
-	meaningOfWorld = 42
+	meaningOfWorld = 0
 )
